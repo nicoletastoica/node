@@ -1,0 +1,17 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "my first node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nico",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "git": "^0.1.5",
+    "http": "0.0.0",
+    "mongodb": "^2.2.29"
+  }
+}
