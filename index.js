@@ -9,6 +9,10 @@ app.get('/document',function(req,res){
 	res.send('my document');
 	
 });
+app.get('/contact',function(req,res){
+	res.send('my contact');
+	
+});
 
 app.listen(3000, function(){
 	console.log('server started');
